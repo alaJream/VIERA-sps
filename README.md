@@ -1,6 +1,6 @@
 # VIERA-sps
 
-*(Inspired by my blog post)*
+*(Inspired by my SPD blog post)*
 
 
 ![right](https://user-images.githubusercontent.com/87215130/137564873-6ceb8594-9486-438c-9045-74890b19275b.jpg)
